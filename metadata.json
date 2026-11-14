@@ -1,0 +1,6 @@
+{
+  "name": "PulseWire",
+  "description": "Personalized news feed bringing together live coverage from NBC News, CNBC, CNN, and your local city news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

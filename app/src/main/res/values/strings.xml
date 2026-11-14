@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PulseWire</string>
+    <string name="tagline">Your Personalized Broadsheet</string>
+
+    <!-- Navigation -->
+    <string name="nav_for_you">For You</string>
+    <string name="nav_sources">Sources</string>
+    <string name="nav_saved">Saved</string>
+
+    <!-- Sources -->
+    <string name="source_all">All Outlets</string>
+    <string name="source_nbc">NBC News</string>
+    <string name="source_cnbc">CNBC</string>
+    <string name="source_cnn">CNN</string>
+    <string name="source_local">Local News</string>
+
+    <!-- Actions & Controls -->
+    <string name="action_personalize">Personalize</string>
+    <string name="action_refresh">Refresh Feed</string>
+    <string name="action_search">Search headlines</string>
+    <string name="action_clear_search">Clear search</string>
+    <string name="action_bookmark">Save article</string>
+    <string name="action_remove_bookmark">Remove saved article</string>
+    <string name="action_share">Share story</string>
+    <string name="action_open_browser">Open in Browser</string>
+    <string name="action_read_full_story">Read Full Story</string>
+    <string name="action_read_summary">Editorial Briefing</string>
+    <string name="action_back">Navigate back</string>
+    <string name="action_detect_city">Detect My City</string>
+    <string name="action_apply">Apply Preferences</string>
+    <string name="action_retry">Try Again</string>
+
+    <!-- Personalization & Local -->
+    <string name="personalize_title">Personalize Your Wire</string>
+    <string name="personalize_subtitle">Tune outlet priorities, topics, keywords, and your local edition.</string>
+    <string name="local_edition_title">Local News Edition</string>
+    <string name="local_city_hint">City, State or ZIP (e.g. Austin, TX)</string>
+    <string name="topics_section_title">Beats &amp; Topics</string>
+    <string name="keywords_section_title">Tracked Keywords</string>
+    <string name="keyword_hint">Add a beat or keyword (e.g. AI, Housing)</string>
+    <string name="sources_section_title">Outlets &amp; Priority</string>
+    <string name="priority_standard">Standard</string>
+    <string name="priority_boosted">Boosted</string>
+
+    <!-- Empty & Status States -->
+    <string name="empty_feed_title">No stories match your current filters</string>
+    <string name="empty_feed_subtitle">Enable more outlets, clear your search, or pull down to refresh live feeds.</string>
+    <string name="empty_saved_title">Your Reading List is Empty</string>
+    <string name="empty_saved_subtitle">Tap the bookmark icon on any NBC, CNBC, CNN, or local story to save it here for offline reading.</string>
+    <string name="loading_wire">Syncing live headlines from NBC, CNBC, CNN &amp; Local…</string>
+    <string name="offline_notice">Showing cached stories. Pull down to retry live sync.</string>
+    <string name="location_denied_msg">Location permission was declined. Enter your city below to customize local news.</string>
+</resources>
